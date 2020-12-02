@@ -40,6 +40,7 @@
 				"activities": [
 					{
 						"name": "Copy data3",
+						"description": "copy activity",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
